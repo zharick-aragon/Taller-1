@@ -1,0 +1,13 @@
+tipo:Tipo 3:23000:84.0
+tipo:Tipo 2:4000:3.0
+tipo:Tipo 1:12000:5.0
+tipo:Tipo 4:16000:45.0
+surtidor:Juanita:Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+surtidor:Carlos:Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+surtidor:Mercedes:Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+surtidor:Ramon Julio :Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+empleado:Juanita:0
+empleado:Pedro:0
+empleado:Mercedes:0
+empleado:Carlos:0
+empleado:Ramon Julio :0
